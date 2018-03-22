@@ -1,4 +1,5 @@
 <?php
+//test
 namespace App\Controller;
 
 use App\Controller\AppController;
@@ -17,6 +18,7 @@ class RegistsController extends AppController
       parent::initialize();
 
 $authid = $this->request->getSession()->read('Auth.Member.id');
+
 
 
 
