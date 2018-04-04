@@ -21,7 +21,7 @@ class BooksController extends AppController
     public function index()
     {
         $books = $this->paginate($this->Books);
-
+	//coment add
         $this->set(compact('books'));
     }
 
