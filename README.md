@@ -1,36 +1,22 @@
 # comics
-
-HttpRequestException‚ªo‚½•¶–¬<br />
-Windows10‚ÅSouceTree 2.4.8.0‚ðŽg‚Á‚Ä‚¢‚Ü‚·B<br />
-ƒvƒ‰ƒCƒx[ƒg‚ÌƒvƒƒWƒFƒNƒg‚ÅƒRƒ~ƒbƒg‚µ‚ÄAPushƒ{ƒ^ƒ“‚ð‰Ÿ‚µ‚½‚ç"HttpRequestException"‚ªo‚Ä‚«‚Ü‚µ‚½B<br />
-‚à‚¤ˆê“xPush‚ð‰Ÿ‚µ‚Ä‚Ý‚é‚Æƒ|ƒbƒvƒAƒbƒv‚ªŠJ‚¢‚ÄGitHub‚ÖƒƒOƒCƒ“‚ð‹‚ß‚ç‚ê‚½B<br />
-ƒ†[ƒU|ƒl[ƒ€‚ÆƒpƒXƒ[ƒh‚ð‘Å‚¿ž‚ñ‚Å‚Ý‚é‚àŒ‹‰Ê‚Í•Ï‚í‚ç‚¸B<br />
-GitHub‚ÅƒƒOƒAƒEƒg ¨ ƒƒOƒCƒ“‚µ‚Ä‚Ý‚½‚Ì‚ÅƒpƒXƒ[ƒh‚ÍŠÔˆá‚Á‚Ä‚¢‚È‚¢BBB<br /><br />
-
-ƒGƒ‰[“à—e<br />
-git -c diff.mnemonicprefix=false -c core.quotepath=false push -v --tags origin master:master<br />
-fatal: HttpRequestException encountered.<br />
-   An error occurred while sending the request.<br /><br />
-
-remote: Invalid username or password.<br />
+<<
 fatal: Authentication failed for 'https://github.com/xxxx/yyyy.git/'
 <br /><br />
 Pushing to https://github.com/xxxx/yyyy.git<br />
 Completed with errors, see above.<br />
-‚Ç‚¤‚â‚Á‚Ä‰ðŒˆ‚µ‚½‚Ì‚©B<br />
-SouceTree‚Ìƒƒjƒ…[‚ÌAction ¨ "Open in Terminal"<br />
-Git bash‚ªŠJ‚­<br />
-Git bash‚Å"git push"<br />
-Ä‚ÑGitHub‚ÖƒƒOƒCƒ“‚ð‹‚ß‚éƒ|ƒbƒvƒAƒbƒv‚ªo‚½‚Ì‚ÅƒƒOƒCƒ“<br />
-Push‚Å‚«‚½B<br />
-SouceTree‚ðŠJ‚«‚È‚¨‚µ‚ÄŠm”F‚·‚é‚ÆAPushƒ{ƒ^ƒ“‚©‚ç–¢ƒvƒbƒVƒ…‚ðŽ¦‚·ƒAƒCƒRƒ“ƒoƒbƒ`‚ªÁ‚¦‚Ä‚é<br />
-‚·‚®‚É‰ðŒˆ‚µ‚½‚¯‚ÇA‚È‚ñ‚¾‚Á‚½‚Ì‚¾‚ë‚¤H<br />
-(2018/02/25 ’Ç‹LF<br />
-Ä‚ÑPush‚µ‚æ‚¤‚Æ‚µ‚½‚ç“¯—l‚ÌƒGƒ‰[‚ªo‚Ü‚µ‚½B<br />
-ª–{“I‚È‰ðŒˆ‚É‚Í‚È‚Á‚Ä‚¢‚Ü‚¹‚ñ‚Å‚µ‚½B<br />
+ï¿½Ç‚ï¿½ï¿½ï¿½ï¿½Ä‰ï¿½ï¿½ï¿½ï¿½ï¿½Ì‚ï¿½ï¿½B<br />
+SouceTreeï¿½Ìƒï¿½ï¿½jï¿½ï¿½ï¿½[ï¿½ï¿½Action ï¿½ï¿½ "Open in Terminal"<br />
+Git bashï¿½ï¿½ï¿½Jï¿½ï¿½<br />
+Git bashï¿½ï¿½"git push"<br />
+ï¿½Ä‚ï¿½GitHubï¿½Öƒï¿½ï¿½Oï¿½Cï¿½ï¿½ï¿½ï¿½ß‚ï¿½|ï¿½bï¿½vï¿½Aï¿½bï¿½vï¿½ï¿½ï¿½oï¿½ï¿½ï¿½Ì‚Åƒï¿½ï¿½Oï¿½Cï¿½ï¿½<br />
+Pushï¿½Å‚ï¿½ï¿½ï¿½ï¿½B<br />
+SouceTreeï¿½ï¿½Jï¿½ï¿½ï¿½È‚ï¿½ï¿½ï¿½ï¿½ÄŠmï¿½Fï¿½ï¿½ï¿½ï¿½ÆAPushï¿½{ï¿½^ï¿½ï¿½ï¿½ï¿½ï¿½ç–¢ï¿½vï¿½bï¿½Vï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½Cï¿½Rï¿½ï¿½ï¿½oï¿½bï¿½`ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½<br />
+ï¿½ï¿½ï¿½ï¿½ï¿½É‰ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÇAï¿½È‚ñ‚¾‚ï¿½ï¿½ï¿½Ì‚ï¿½ï¿½ë‚¤ï¿½H<br />
+(2018/02/25 ï¿½Ç‹Lï¿½F<br />
+ï¿½Ä‚ï¿½Pushï¿½ï¿½ï¿½æ‚¤ï¿½Æ‚ï¿½ï¿½ï¿½ï¿½ç“¯ï¿½lï¿½ÌƒGï¿½ï¿½ï¿½[ï¿½ï¿½ï¿½oï¿½Ü‚ï¿½ï¿½ï¿½ï¿½B<br />
+ï¿½ï¿½ï¿½{ï¿½Iï¿½È‰ï¿½É‚Í‚È‚ï¿½Ä‚ï¿½ï¿½Ü‚ï¿½ï¿½ï¿½Å‚ï¿½ï¿½ï¿½ï¿½B<br />
 )<br /><br />
 
-‰ðŒˆ–@i2018/02/25 ‚³‚ç‚É’Ç‹L)<br />
-‚Ü‚Á‚½‚­“¯‚¶Çó‚ð‰ðŒˆ‚³‚ê‚½•û‚ª‚¨‚è‚Ü‚µ‚½B<br />
-ã‹LƒuƒƒO‚ÌÅŒã‚É‚ ‚é’Ê‚èAGit Credential Manager‚ÌÅV”ÅiGCMW-1.14.0.exej‚ðƒCƒ“ƒXƒg[ƒ‹‚µ‚½‚çSourceTree‚ÅPush‚Å‚«‚é‚æ‚¤‚É‚È‚è‚Ü‚µ‚½B
-
+ï¿½ï¿½@ï¿½i2018/02/25 ï¿½ï¿½ï¿½ï¿½É’Ç‹L)<br />
+ï¿½Ü‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Çï¿½ï¿½ï¿½ï¿½ï¿½ê‚½ï¿½ï¿½ï¿½ï¿½Ü‚ï¿½ï¿½ï¿½ï¿½B<br />
+ï¿½ï¿½Lï¿½uï¿½ï¿½ï¿½Oï¿½ÌÅŒï¿½É‚ï¿½ï¿½ï¿½Ê‚ï¿½AGit Credential Managerï¿½ÌÅVï¿½ÅiGCMW-1.14.0.exeï¿½jï¿½ï¿½Cï¿½ï¿½ï¿½Xï¿½gï¿½[ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½SourceTreeï¿½ï¿½Pushï¿½Å‚ï¿½ï¿½ï¿½æ‚¤ï¿½É‚È‚ï¿½Ü‚ï¿½ï¿½ï¿½
